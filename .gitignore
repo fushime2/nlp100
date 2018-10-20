@@ -1,1 +1,4 @@
 *.swp
+hightemp.txt
+__pycache__/
+*.pyc
